@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { education, experience, profile } from '../data/portfolio';
+import { education, profile } from '../data/portfolio';
 import { EASE, SectionHeading, Tilt } from './fx';
 
 export default function About() {
